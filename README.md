@@ -2,6 +2,8 @@
 
 This project focuses on analyzing the sentiment of tweets using Natural Language Processing (NLP) and Machine Learning techniques. The goal is to classify tweets into different sentiment categories and evaluate the performance of multiple classifiers.
 
+https://huggingface.co/spaces/sevvaliclal/TwitterSentimentAnalysisApp
+
 ---
 
 ## 📌 Project Overview
